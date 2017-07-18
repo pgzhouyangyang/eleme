@@ -1,0 +1,82 @@
+    [{
+      "title": "美食热推",
+      "description": "你的口味，我都懂得",
+      "url":"/hortFood",
+      "foods": [{
+          "id": "152229973",
+          "image_url": "https://fuss10.elemecdn.com/7/b1/c0098390527eb86f3c6ef5d2ee3d9jpeg.jpeg?imageMogr/format/webp/",
+          "name": "鸡丝凉米线",
+          "price": "42"
+        },
+        {
+          "id": "632615045",
+          "image_url": "https://fuss10.elemecdn.com/7/91/527b3ef8ff12072b61e4c4390c04ajpeg.jpeg?imageMogr/format/webp/",
+          "name": "小熊乐园-14cm 2-4人",
+          "price": "299"
+        },
+        {
+          "id": "512811652",
+          "image_url": "https://fuss10.elemecdn.com/4/9f/92afef3b1de3fd953a225ebbdc2c6jpeg.jpeg?imageMogr/format/webp/",
+          "name": "酸汤鱼",
+          "price": "98"
+        }
+      ]
+    },
+    {
+      "title": "天天特价",
+      "description": "特价商品，一网打尽",
+      "url":"/sale",
+      "foods": [{
+          "id": "669234134",
+          "image_url": "https://fuss10.elemecdn.com/d/da/43b30366ccd845ecfbe61f9cd7cb1jpeg.jpeg?imageMogr/format/webp/",
+          "name": "芒果班戟（一枚）",
+          "original_price": 22,
+          "price": 1,
+          "discount_rate": 0.05
+        },
+        {
+          "id": 573146314,
+          "image_url": "https://fuss10.elemecdn.com/7/1a/0a44c9f01d1e020f68c98b841a61cjpeg.jpeg?imageMogr/format/webp/",
+          "discount_rate": 0.6,
+          "name": "进口泰国榴莲芒果盒子480ml",
+          "original_price": 75,
+          "price": 45
+        },
+        {
+          "id": 663920566,
+          "image_url": "https://fuss10.elemecdn.com/e/ed/355dbde852838cfcd68e6f2c8f5a2jpeg.jpeg?imageMogr/format/webp/",
+          "discount_rate": 0.3,
+          "name": "龙泉水蜜桃【四川】2粒350g-360g",
+          "original_price": 24.9,
+          "price": 7.47
+        }
+      ]
+    },
+    {
+      "title": "限时好礼",
+      "description": "小积分换豪礼",
+       "url":"http://1.elemecopy.applinzi.com/index.html#/",
+      "foods": [{
+          "name": "iPhone 7 32G",
+          "points_required": 399,
+          "original_price": 4499,
+          "image_url": "https://fuss10.elemecdn.com/0/53/47a80976e90c99f40b745cde5246fjpeg.jpeg?imageMogr/format/webp/",
+          "corner_marker": "抽奖活动"
+        },
+        {
+          "name": "翻出你的洗衣机！",
+          "points_required": 299,
+          "original_price": 0,
+          "image_url": "https://fuss10.elemecdn.com/9/03/8c2f0d7c338194ed1ec35d8507ec9jpeg.jpeg?imageMogr/format/webp/",
+          "corner_marker": "0元抽奖"
+        },
+        {
+          "name": "夏日驱蚊有一套",
+          "points_required": 299,
+          "original_price": 0,
+          "image_url": "https://fuss10.elemecdn.com/3/82/cd673402af2f4606166a8a9dd166bjpeg.jpeg?imageMogr/format/webp/",
+          "corner_marker": "0元抽奖"
+        }
+      ]
+    }
+  ]

@@ -1,0 +1,53 @@
+html, body, ul, li, ol, dl, dd, dt, p, h1, h2, h3, h4, h5, h6, form, fieldset, legend, img ,button,table,th,tr,td,thead,tbody,input{ margin:0; padding:0; }
+fieldset, img { border:none; }
+img{vertical-align: middle;}
+address, caption, cite, code, dfn, th, var { font-style:normal; font-weight:normal; }
+ul, ol { list-style:none; }
+body { color:#333; font-family:Arial,"Microsoft YaHei"; background:#fff;/* overflow-y:scroll;*/ overflow-x:hidden;font-size: 12px;position: relative;
+    background: #f6f6f6;
+}
+a { color:#666; text-decoration:none; }
+a:visited { color:#666; }
+a:hover, a:active, a:focus { color:#EF6868; text-decoration:none; }
+b,em,i{font-style: normal;}
+/**{box-sizing: border-box;}*/
+input[type="text"],input[type="button"]{
+	outline:none;
+}
+.cursor{
+	cursor: pointer;
+}
+.fr{
+	float: right;
+}
+.fl{
+	float: left;
+}
+.clearfix:after {
+    visibility: hidden;
+    clear: both;
+    display: block;
+    content: ".";
+    height: 0;
+}
+.noborder{
+	border:0
+}
+/** 重置表单元素 **/
+legend { color: #000; } /* for ie6 */
+fieldset, img { border: 0; } /* img 搭车：让链接里的 img 无边框 */
+button, input, select, textarea { font-size: 100%; } /* 使得表单元素在 ie 下能继承字体大小 */
+/* 注：optgroup 无法扶正 */
+
+/** 重置表格元素 **/
+table { border-collapse: collapse; border-spacing: 0; }
+/* 清除浮动 */
+.ks-clear:after, .clear:after {
+  content: '\20';
+  display: block;
+  height: 0;
+  clear: both;
+}
+.red{
+	color: #f10214;
+}

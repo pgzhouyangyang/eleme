@@ -1,0 +1,35 @@
+{
+    "success": true,
+    "list": [
+        {
+            "btnLink": "https://h5.ele.me/exchange/?dbredirect=https%3A%2F%2Fgoods.m.duiba.com.cn%2Fbutton%2Fclassify%3Fid%3D2752%26dbnewopen&dbnewopen&dpm=14695.5.24.1&dcm=null",
+            "countDownEnable": 0,
+            "dpm": "14695.5.24.1",
+            "image": "//yun.duiba.com.cn/images/201706/79e7d2byos.jpg",
+            "place": 1,
+            "stInfo": "{\"dpm\":\"14695.5.24.1\",\"info_type\":\"23\",\"login_type\":1,\"button_type\":\"190009\",\"ip\":\"222.249.224.26\",\"location_type\":3,\"consumer_id\":1136351037,\"location_num\":1,\"app_id\":14695,\"info\":\"1864\"}"
+        },
+        {
+            "btnLink": "//activity.m.duiba.com.cn/singleLottery/index?id=2299153&dbnewopen&dpm=14695.5.24.1&dcm=202.2299153.0.0",
+            "countDownEnable": 0,
+            "dcm": "202.2299153.0.0",
+            "dpm": "14695.5.24.1",
+            "image": "//yun.duiba.com.cn/images/201706/xddb0sz3xo.jpg",
+            "place": 2,
+            "relationImage": "//yun.duiba.com.cn/images/201706/y6qz9thymh.jpg",
+            "relationTitle": "OPPO R11（第三期）",
+            "stInfo": "{\"dpm\":\"14695.5.24.1\",\"info_type\":\"23\",\"login_type\":1,\"app_item_id\":1223398,\"button_type\":\"190009\",\"ip\":\"222.249.224.26\",\"location_type\":3,\"dcm\":\"202.2299153.0.0\",\"consumer_id\":1136351037,\"activity_type\":5,\"location_num\":2,\"activity_id\":2299153,\"app_id\":14695,\"info\":\"1865\"}"
+        },
+        {
+            "btnLink": "//goods.m.duiba.com.cn/mobile/appItemDetail?appItemId=1191632&dbnewopen&dpm=14695.5.24.2&dcm=102.1191632.0.0",
+            "countDownEnable": 0,
+            "dcm": "102.1191632.0.0",
+            "dpm": "14695.5.24.2",
+            "image": "//yun.duiba.com.cn/images/201706/kxrx7seyzw.jpg",
+            "place": 3,
+            "relationImage": "//yun.duiba.com.cn/images/201706/5gye5zo7k3.jpg",
+            "relationTitle": "“0”元购 千兆无线路由 ",
+            "stInfo": "{\"dpm\":\"14695.5.24.2\",\"info_type\":\"23\",\"login_type\":1,\"app_item_id\":1191632,\"button_type\":\"190009\",\"ip\":\"222.249.224.26\",\"location_type\":3,\"dcm\":\"102.1191632.0.0\",\"consumer_id\":1136351037,\"location_num\":3,\"app_id\":14695,\"info\":\"1866\"}"
+        }
+    ]
+}
